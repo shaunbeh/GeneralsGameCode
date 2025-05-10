@@ -24,7 +24,10 @@ If you wish to rebuild the source code and tools successfully you will need to f
 
 ## Compiling (Win32 Only)
 
-To use the compiled binaries, you must own the game. The C&C Ultimate Collection is available for purchase on [EA App](https://www.ea.com/en-gb/games/command-and-conquer/command-and-conquer-the-ultimate-collection/buy/pc) or [Steam](https://store.steampowered.com/bundle/39394/Command__Conquer_The_Ultimate_Collection/).
+To use the compiled binaries, you must own the game. The C&C Ultimate Collection is available for purchase on 
+[EA App](https://www.ea.com/en-gb/games/command-and-conquer/command-and-conquer-the-ultimate-collection/buy/pc) 
+or 
+[Steam](https://store.steampowered.com/bundle/39394/Command__Conquer_The_Ultimate_Collection/).
 
 The quickest way to build all configurations in the project is to open `rts.dsw` in Microsoft Visual Studio C++ 6.0 (SP6 recommended for binary matching to Generals patch 1.08 and Zero Hour patch 1.04) and select Build -> Batch Build, then hit the “Rebuild All” button.
 
